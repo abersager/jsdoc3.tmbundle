@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@param {${1:Boolean|String|Object|Number|String[]}} [${2:name}=${3:defaultValue}] ${4:Description of optional parameter}$0</string>
+	<key>name</key>
+	<string>@param (optional)</string>
+	<key>scope</key>
+	<string>source.js comment.block</string>
+	<key>tabTrigger</key>
+	<string>par</string>
+	<key>uuid</key>
+	<string>E44AA4C2-28A4-4960-8020-69DBB2779FA3</string>
+</dict>
+</plist>
